@@ -3,7 +3,7 @@
 # Pepper's Ghost Blender
 
 
-[VVVV](vvvv.org) prototype for original head segmentation solution. 
+[VVVV](https://vvvv.org/) prototype for original head segmentation solution. 
 
 Processes video in real-time. Intended to be used with reflective prism to create [Pepper's ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost) illusion with a digital screen.
 
