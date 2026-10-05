@@ -1,4 +1,4 @@
-
+Sample of below implementation: [Symphony Solution's office](https://symphony-solutions.com/cases/project-symphie-how-3d-holograms-transformed-workspace)
 
 # Pepper's Ghost Blender
 
